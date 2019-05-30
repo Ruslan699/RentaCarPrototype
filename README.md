@@ -4,6 +4,8 @@
 
 2.EntityFramework Core
 
+3.Repository Pattern
+
 3.HTML , CSS, Javascript/Jquery
 
-4. Will be added: Identity, Payment System, Advertisement Management
+4.Will be added: Identity, Payment System, Advertisement Management
